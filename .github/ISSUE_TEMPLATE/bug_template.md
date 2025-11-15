@@ -3,7 +3,7 @@ name: Bug_Template
 about: 버그 수정 및 보완
 title: ''
 labels: bug
-assignees: ''
+assignees: LCrim
 
 ---
 
